@@ -7,18 +7,20 @@ Fue desarrollado usando **HTML, CSS y JavaScript puro**, y utiliza **Vite** como
 
 ### 1. Clonar el repositorio
 git clone https://github.com/PaoloCerutti/TP-Rick-And-Morty.git
-cd TP-Rick-And-Morty
+
+- cd TP-Rick-And-Morty
 
 ### 2. Instalar las dependencias
 Asegurate de tener Node.js instalado. Luego ejecutá:
-npm install
+
+- npm install
 
 
 ### 3. Correr el servidor de desarrollo
-npm run dev
+- npm run dev
 
 ### 4. La aplicación se abrirá automáticamente en tu navegador en:
-http://localhost:5173
+- http://localhost:5173
 
 
 
